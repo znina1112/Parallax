@@ -1,0 +1,72 @@
+html, body{
+  margin:0;
+  height:100%;
+  font-family: 'Open Sans', sans-serif;
+}
+.parallax1,.parallax4{
+  margin-top: 0;
+  background-image: url(images/street.jpg);
+  height:100%;
+  background-attachment: fixed;
+  /* background-position: center; */
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+  opacity: 0.7;
+  /* position: relative; */
+}
+.heading,.heading4{
+  text-align: center;
+  padding:180px;
+  font-size: 2rem;
+  color:white;
+}
+.pw,.tn{
+  border:3px solid;
+  border-width: 15px;
+  border-color: black;
+  background-color: black;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  padding:10px;
+}
+.section1, .section2,.section3{
+  text-align: center;
+  padding:20px 90px;
+  opacity:0.7;
+  background-color: #e8e8e8;
+  letter-spacing: 1px;
+}
+.title1,.title2{
+  font-size: 30px;
+}
+.parallax2{
+  background-image: url(images/street2.jpg);
+  height:70%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity:0.8;
+}
+.itt,.iht{
+  text-align: center;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  padding:10px;
+  color:#ffffff;
+
+}
+.heading2,.heading3,.heading4{
+  padding-top:150px;
+}
+.section2,.section3{
+  background-color: #495464;
+  color:#ffffff;
+}
+.parallax3{
+  background-image: url(images/street3.jpg);
+  height:70%;
+  background-attachment: fixed;
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+  opacity:0.8;
+}
